@@ -6,66 +6,6 @@ a Network and Secuirity Student in UTM
 
 A self-driven and versatile Software Developer passionate about creating efficient digital solutions. Skilled in both frontend and backend development, with hands-on experience in building commercial websites, mini games, and AI-based customer service systems. Dedicated to continuous learning and problem-solving through technology.
 
-EDUCATION
-
-SPM — 6A
-
-UTM Foundation in Physical Science — 3.29
-
-WORK EXPERIENCE
-
-Cashier / Promoter / IT Assistant
-
-Various Part-Time Roles | Johor Bahru
-
-Provided excellent customer service and managed daily cash transactions.
-
-Assisted in product promotion and customer engagement.
-
-Supported basic IT troubleshooting and data organization tasks.
-
-Developed strong communication and teamwork abilities across different environments.
-
-PROJECT EXPERIENCE
-
-1\. Commercial Website (C2B Model)
-
-Designed and developed a commercial website connecting consumers to businesses.
-
-Implemented dynamic content updates and responsive UI using JavaScript and HTML/CSS.
-
-Improved user experience and site performance through optimization.
-
-2\. Mini Games Development
-
-Created several interactive mini games using C++ and JavaScript.
-
-Applied logic programming and UI event handling to enhance gameplay.
-
-3\. AI Chatbot Assistant
-
-Built an intelligent WhatsApp-based customer service bot using Node.js and OpenAI API.
-
-Integrated natural language response and keyword-triggered menu system for better user engagement.
-
-SKILLS
-
-Programming: C++, JavaScript, HTML, CSS, Node.js
-
-Tools: VS Code, GitHub, Figma, Canva
-
-Soft Skills: Problem Solving, Teamwork, Communication, Time Management
-
-LANGUAGES
-
-English: Intermediate
-
-Chinese: Fluent
-
-Malay: Fluent
-
-INTERESTS
-
 Coding • Technology Innovation • Game Development • UI/UX Design
 
 * 🌍  I'm based in Malaysia
