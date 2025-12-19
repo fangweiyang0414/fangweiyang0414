@@ -10,7 +10,7 @@ Coding • Technology Innovation • Game Development • UI/UX Design
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [weiyangfang666@gmail.com](mailto:weiyangfang666@gmail.com)
-* 🚀  I'm currently working on [UTM](http://www.linkedin.com/in/wei-yang-hong-b8395038b)
+* 🚀  I'm currently studding in [UTM](http://www.linkedin.com/in/wei-yang-hong-b8395038b)
 * 🧠  I'm currently learning C++
 
 <p align="left">
